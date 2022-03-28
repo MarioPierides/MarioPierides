@@ -1,4 +1,4 @@
-### Hi there, it's me Mario 👋
+### Hi, it's me Mario 💥
 
 <!--
 **MarioPierides/MarioPierides** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,12 +18,6 @@ Here are some ideas to get you started:
 
 
 ![alt_text](https://c.tenor.com/CGn2lwGnPWkAAAAC/mario-super-mario.gif)
-
-
-
-
-
-![alt text](https://www.das-perfekte-xing-profil.de/wp-content/uploads/Gifs-bei-XING.gif)
 
 
 
