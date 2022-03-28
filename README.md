@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Mario Bild](https://unsplash.com/photos/4m3kuXd8CH8)
+![Mario Bild](https://unsplash.com/photos/4m3kuXd8CH8)
 
